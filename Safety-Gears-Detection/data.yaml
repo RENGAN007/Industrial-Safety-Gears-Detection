@@ -1,0 +1,5 @@
+train: C:\Users\91934\Desktop\Orinson Tasks\Object Detection\data\train\images
+val: C:\Users\91934\Desktop\Orinson Tasks\Object Detection\data\valid\images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
